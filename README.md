@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-**yeshalkhan/yeshalkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 📚 I'm a software engineering student at PUCIT.
 - 🌱 I’m currently learning C++, OOP
 - 📫 How to reach me: yeshalkhan13@gmail.com
--->
+
 
 ## Contribution Graph
 [![yeshalkhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeshalkhan&theme=cottoncandy)](https://github.com/yeshalkhan)
