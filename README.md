@@ -1,14 +1,15 @@
-### Hey 👋
-
-- 📚 I'm a software engineering student at PUCIT.
-- 🌱 I’m currently learning C++, OOP
-- 📫 How to reach me: yeshalkhan13@gmail.com
+# About Me:
+I'm Yeshal, a software engineering student interested in web design and development.
 
 
-## Contribution Graph
-[![yeshalkhan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeshalkhan&theme=cottoncandy)](https://github.com/yeshalkhan)
-<h2><i>⚙️ GitHub Analytics</i></h2>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeshalkhan&show_icons=true&theme=onedark&include_all_commits=true&count_public=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeshalkhan&layout=compact&langs_count=8&theme=onedark" />
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yeshalkhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
