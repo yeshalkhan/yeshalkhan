@@ -2,7 +2,7 @@
 I'm Yeshal, a software engineering student interested in web design and development.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
