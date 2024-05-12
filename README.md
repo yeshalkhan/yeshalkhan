@@ -4,9 +4,9 @@ I'm Yeshal, a software engineering student interested in web design and developm
 ## 📊 GitHub Stats:
 <div align="center">
 
-  <a href="![](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)" height=150/>
-  <a href="![](https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&theme=radical&hide_border=false)" height=150"<br/>
-  <a href="![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" height=150/>
+  <a href="(https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)" height=150/>
+  <a href="(https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&theme=radical&hide_border=false)" height=150"<br/>
+  <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" height=150/>
 </div>
 
 ## 💻 Tech Stack:
