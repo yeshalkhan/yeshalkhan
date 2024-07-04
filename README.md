@@ -42,8 +42,6 @@ I'm Yeshal, a software engineering student interested in web design and developm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeshalkhan&theme=react&radius=10&area=true)](https://github.com/yeshalkhan/github-readme-activity-graph)
-
 
 
 
