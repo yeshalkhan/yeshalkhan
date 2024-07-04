@@ -1,13 +1,22 @@
-# 💫 About Me:
-I'm Yeshal, a software engineering student interested in web design and development.<br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yeshalkhan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+
+  ###
+  ![](https://komarev.com/ghpvc/?username=yeshalkhan&color=25a8cc&style=plastic)
+  ###
+  <img src="https://github-readme-stats.vercel.app/api?username=yeshalkhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=yeshalkhan&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshalkhan&locale=en&hide_title=false&layout=compact&langs_count=10&card_width=420&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeshalkhan&theme=react&radius=10&area=true)](https://github.com/yeshalkhan/github-readme-activity-graph)
+
+
+
+
