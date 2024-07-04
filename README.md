@@ -1,7 +1,7 @@
 # About Me:
 I'm Yeshal, a software engineering student interested in web design and development.<br><br>
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 
 ###
 
@@ -15,7 +15,7 @@ I'm Yeshal, a software engineering student interested in web design and developm
 
 
 ###
-# Tech Stack:
+# 💻 Tech Stack:
 
 <div align="left">
    <img width="12" />
