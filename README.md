@@ -8,10 +8,9 @@ I'm Yeshal, a software engineering student interested in web design and developm
 <div align="center">
 
   ###
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=dark&show_icons=true&include_all_commits=true)
-  <img src="https://github-readme-stats.vercel.app/api?username=yeshalkhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=yeshalkhan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshalkhan&locale=en&hide_title=false&layout=compact&langs_count=10&card_width=420&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  ![Yeshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&show_icons=true&include_all_commits=true)
+  ![Yeshal's Streaks stats](https://streak-stats.demolab.com?user=yeshalkhan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5)
+  ![Yeshal's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yeshalkhan&locale=en&hide_title=false&layout=compact&langs_count=10&card_width=420&theme=radical&hide_border=false)
 </div>
 
 
