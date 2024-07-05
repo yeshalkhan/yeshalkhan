@@ -9,8 +9,8 @@ I'm Yeshal, a software engineering student interested in web design and developm
 
   ###
   ![Yeshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeshalkhan&theme=radical&show_icons=true&include_all_commits=true)
-  ![Yeshal's Streaks stats](https://streak-stats.demolab.com?user=yeshalkhan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&size_weight=0.5&count_weight=0.5)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yeshalkhan&theme=radical)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshalkhan&theme=radical&layout=compact)
 </div>
 
 
